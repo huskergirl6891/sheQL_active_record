@@ -7,3 +7,6 @@ ActiveRecord::Base.establish_connection(db_config)
 
 class User < ActiveRecord::Base
 end
+
+class Animal < ActiveRecord::Base
+end
